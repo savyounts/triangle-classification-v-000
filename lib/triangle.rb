@@ -18,9 +18,6 @@ class Triangle
       :isosceles
     end 
   end 
-    
-    
-  end 
   
   
   #CUSTOM ERROR 
